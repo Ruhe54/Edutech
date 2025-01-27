@@ -30,7 +30,7 @@ Membuat dashboard interaktif yang menyajikan informasi terkait faktor-faktor att
 
 ### Persiapan
 
-Sumber data: [....](https://raw.githubusercontent.com/dicodingacademy/dicoding_dataset/refs/heads/main/employee/employee_data.csv)
+Sumber data: (https://raw.githubusercontent.com/dicodingacademy/dicoding_dataset/refs/heads/main/employee/employee_data.csv)
 
 Setup environment:
 
