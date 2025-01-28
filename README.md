@@ -7,9 +7,8 @@ Jaya Jaya Maju, perusahaan multinasional dengan lebih dari 1000 karyawan, mengha
 ### Permasalahan Bisnis
 
 1. Bagaimana data mengenai tingkat beban kerja, jam kerja, atau work-life balance yang dirasakan karyawan?
-2. Faktor apa saja yang telah diidentifikasi oleh tim HR yang mungkin memengaruhi attrition rate (misalnya gaji, promosi, lokasi, atau fleksibilitas kerja)?
-3. Apa karakteristik karyawan yang memiliki kecenderungan lebih tinggi untuk keluar? (misalnya usia, gender, lama bekerja, atau posisi tertentu)
-4. Apakah attrition rate lebih tinggi pada departemen tertentu dibandingkan dengan yang lain?
+2. Apa karakteristik karyawan yang memiliki kecenderungan lebih tinggi untuk keluar? (misalnya usia, gender, lama bekerja, atau posisi tertentu)
+3. Apakah attrition rate lebih tinggi pada departemen tertentu dibandingkan dengan yang lain?
 
 
 ### Cakupan Proyek
