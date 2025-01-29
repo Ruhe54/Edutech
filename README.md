@@ -6,8 +6,8 @@ Jaya Jaya Maju, perusahaan multinasional dengan lebih dari 1000 karyawan, mengha
 
 ### Permasalahan Bisnis
 
-1. Bagaimana data mengenai tingkat beban kerja, jam kerja, atau work-life balance yang dirasakan karyawan?
-2. Apa karakteristik karyawan yang memiliki kecenderungan lebih tinggi untuk keluar? (misalnya usia, gender, lama bekerja, atau posisi tertentu)
+1. Bagaimana data mengenai tingkat keja dan work-life balance yang dirasakan karyawan?
+2. Apa karakteristik karyawan yang memiliki kecenderungan lebih tinggi untuk keluar? (misalnya JobSatisfaction, gender,atau lama bekerja)
 3. Apakah attrition rate lebih tinggi pada departemen tertentu dibandingkan dengan yang lain?
 
 
@@ -39,6 +39,39 @@ Setup environment:
 
 ## Business Dashboard
 
+Dalam Businnes Dashboard ini kita bisa mendapatkan insight yang menarik diantaranya Jumlah total karyawan, Rata-rata umur karyawan yang bekerja serta jarak rata-rata dari rumah ke tempat bekerja.
+- Diagram pie Attrition menunjukkan persentase karyawan yang keluar (attrition) dan yang masih bekerja.
+- Distribusi Work-Life Balance berdasarkan Job Level (Bar Chart)
+Sumbu X: Job Level (1-5)
+Sumbu Y: Jumlah Karyawan
+Warna pada grafik mewakili kategori work-life balance (1 = Low, 4 = Outstanding).
+Mayoritas karyawan berada di Job Level 2 dan 3, dengan tingkat work-life balance yang bervariasi.
+- Monthly Rate dan Job Level (Line Chart)
+Hubungan antara Monthly Rate (Gaji Bulanan) dan Job Level
+Sumbu X: Rentang Monthly Rate
+Sumbu Y: Jumlah Karyawan
+Warna menunjukkan Job Level karyawan.
+Menunjukkan pola bagaimana distribusi gaji bulanan terhadap tingkat jabatan.
+- Attrition dan Job Satisfaction (Bar Chart)
+Menunjukkan hubungan antara tingkat kepuasan kerja (Job Satisfaction) dan tingkat attrition.
+Semakin tinggi tingkat kepuasan kerja (4-5), semakin kecil tingkat attrition.
+Attrition (warna merah) tampak lebih tinggi pada karyawan dengan tingkat kepuasan rendah (1-2).
+- Attrition dan Years at Company (Grafik Bar - Kanan Atas)
+Menampilkan jumlah karyawan berdasarkan lama bekerja dan tingkat attrition.
+Mayoritas karyawan yang keluar (attrition) memiliki pengalaman kerja 0-5 tahun.
+Semakin lama bekerja (>15 tahun), tingkat attrition tampak jauh lebih rendah.
+Ini bisa menjadi indikator bahwa karyawan baru lebih rentan keluar dari perusahaan.
+- Attrition dan Gender (Donut Chart - Kiri Bawah)
+Menampilkan distribusi karyawan berdasarkan gender dan tingkat attrition.
+87.8% masih bekerja (biru), 12.2% mengalami attrition (merah).
+Terlihat bahwa laki-laki dan perempuan memiliki distribusi attrition yang cukup seimbang, tanpa perbedaan signifikan.
+- Attrition dan Department (Grafik Bar - Kanan Bawah)
+Memvisualisasikan attrition berdasarkan departemen.
+Departemen Research & Development memiliki jumlah karyawan terbanyak, namun juga memiliki tingkat attrition yang lebih tinggi dibandingkan HR.
+Sales memiliki tingkat attrition yang cukup tinggi dibandingkan departemen lain.
+Departemen HR memiliki jumlah karyawan paling sedikit dengan attrition yang rendah.
+
+Link : (http://localhost:3000/public/dashboard/26dd00a6-23b6-4c84-8024-64ead00b5c06)
 Jelaskan tentang business dashboard yang telah dibuat. Jika ada, sertakan juga link untuk mengakses dashboard tersebut.
 
 ## Conclusion
