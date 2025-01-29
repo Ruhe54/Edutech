@@ -34,10 +34,7 @@ Sumber data: (https://raw.githubusercontent.com/dicodingacademy/dicoding_dataset
 Setup environment:
 
 ```
-
-```
-```
- ~ pip install -r requirements.txt
+pip install -r requirements.txt
 ```
 
 
