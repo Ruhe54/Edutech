@@ -36,6 +36,10 @@ Setup environment:
 ```
 
 ```
+```
+ ~ pip install -r requirements.txt
+```
+
 
 ## Business Dashboard
 
@@ -72,15 +76,21 @@ Sales memiliki tingkat attrition yang cukup tinggi dibandingkan departemen lain.
 Departemen HR memiliki jumlah karyawan paling sedikit dengan attrition yang rendah.
 
 Link : (http://localhost:3000/public/dashboard/26dd00a6-23b6-4c84-8024-64ead00b5c06)
-Jelaskan tentang business dashboard yang telah dibuat. Jika ada, sertakan juga link untuk mengakses dashboard tersebut.
 
 ## Conclusion
+- Tingkat Attrition sebesar 12.2%, menunjukkan bahwa sebagian kecil karyawan keluar dari perusahaan.
+- Mayoritas karyawan berada di Job Level 2 & 3, dengan variasi work-life balance yang cukup besar.
+- Jarak rata-rata rumah ke kantor sekitar 9.19 km, yang dapat menjadi faktor kepuasan atau attrition.
+- Distribusi gaji bulanan berdasarkan job level dapat membantu strategi kompensasi dan promosi.
+- Karyawan dengan kepuasan kerja rendah lebih rentan mengalami attrition.
+- Sebagian besar karyawan yang keluar memiliki pengalaman kerja 0-5 tahun, menunjukkan tantangan retensi karyawan baru.
+- Gender tidak terlalu berpengaruh pada tingkat attrition.
+- Sales dan Research & Development memiliki tingkat attrition yang lebih tinggi dibandingkan Human Resources.
 
-Jelaskan konklusi dari proyek yang dikerjakan.
-
-### Rekomendasi Action Items (Optional)
+### Rekomendasi Action Items 
 
 Berikan beberapa rekomendasi action items yang harus dilakukan perusahaan guna menyelesaikan permasalahan atau mencapai target mereka.
-
-- action item 1
-- action item 2
+Rekomendasi action yang bisa dilakukan perusahaan untuk mengurangi tinggat attrition diantaranya adalah:
+- Meskipun dari data tingkat attrition paling tinggi berada pada JobSatisfaction pada nilai 3-3.5 tetapi yang perlu diperhatikan justu nilai JobSatisfaction dengan nilai dibawahnya.
+- Melakukan survey kepuasaan kerja untuk mengetahui kepuasaan karyawan.
+- Pihak HRD dapat melakukan beberapa pertanyaan pada karyawan yang ingin keluar untuk mengetahui alasan keluar dari perusahaan.
